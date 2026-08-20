@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
