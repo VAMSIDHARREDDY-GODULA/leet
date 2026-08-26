@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0303-range-sum-query-immutable) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
