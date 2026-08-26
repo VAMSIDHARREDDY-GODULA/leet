@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0231-power-of-two) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0303-range-sum-query-immutable) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
