@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
