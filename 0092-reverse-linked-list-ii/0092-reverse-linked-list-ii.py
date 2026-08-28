@@ -5,11 +5,9 @@
 #         self.next = next
 class Solution(object):
     def reverseBetween(self, head, left, right):
-        if left==right:
-            return head
         cu = c = head
         x = []
-        l, r = left, right
+        l = left
         while cu:
             right -= 1
             left -= 1
