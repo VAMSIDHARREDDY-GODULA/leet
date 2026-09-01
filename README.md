@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0485-max-consecutive-ones) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
