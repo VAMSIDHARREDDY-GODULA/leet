@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0704-binary-search) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sorting
