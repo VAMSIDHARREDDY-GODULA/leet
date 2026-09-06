@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0509-fibonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3996-even-number-of-knight-moves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3996-even-number-of-knight-moves) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0724-find-pivot-index) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3996-even-number-of-knight-moves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3996-even-number-of-knight-moves) |
 | [4020-elevator-requests-i](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4024-nearest-available-drone) |
 ## Prefix Sum
