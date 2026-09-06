@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0412-fizz-buzz) |
+| [4020-elevator-requests-i](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4020-elevator-requests-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0724-find-pivot-index) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4020-elevator-requests-i](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4024-nearest-available-drone) |
 ## Prefix Sum
 |  |
