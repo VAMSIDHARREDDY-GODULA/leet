@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0693-binary-number-with-alternating-bits) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Stack
 |  |
 | ------- |
