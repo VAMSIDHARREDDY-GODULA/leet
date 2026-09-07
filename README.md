@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0724-find-pivot-index) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3996-even-number-of-knight-moves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3996-even-number-of-knight-moves) |
 | [4020-elevator-requests-i](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4024-nearest-available-drone) |
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4024-nearest-available-drone](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4024-nearest-available-drone) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
