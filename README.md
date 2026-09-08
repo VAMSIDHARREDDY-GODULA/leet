@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0724-find-pivot-index) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Backtracking
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3898-find-the-degree-of-each-vertex) |
+## Greedy
+|  |
+| ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->
