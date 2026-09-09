@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0412-fizz-buzz) |
+| [0999-available-captures-for-rook](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0999-available-captures-for-rook) |
 | [4020-elevator-requests-i](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4020-elevator-requests-i) |
 ## Number Theory
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0724-find-pivot-index) |
+| [0999-available-captures-for-rook](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0999-available-captures-for-rook) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
