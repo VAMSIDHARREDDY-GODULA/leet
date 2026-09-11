@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0232-implement-queue-using-stacks) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0344-reverse-string) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
