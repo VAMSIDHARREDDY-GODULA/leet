@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0232-implement-queue-using-stacks) |
+| [1021-remove-outermost-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 ## Design
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 ## Counting
 |  |
@@ -196,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
