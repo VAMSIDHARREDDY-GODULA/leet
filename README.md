@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1025-divisor-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3870-count-commas-in-range) |
 | [3996-even-number-of-knight-moves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3996-even-number-of-knight-moves) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,4 +201,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1021-remove-outermost-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
