@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1154-day-of-the-year) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3870-count-commas-in-range) |
 | [3996-even-number-of-knight-moves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3996-even-number-of-knight-moves) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1108-defanging-an-ip-address) |
+| [1154-day-of-the-year](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1154-day-of-the-year) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 ## Counting
 |  |
