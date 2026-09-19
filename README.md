@@ -141,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-occurrences-after-bigram](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1078-occurrences-after-bigram) |
 | [1108-defanging-an-ip-address](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1154-day-of-the-year) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Pigeonhole Principle
 |  |
 | ------- |
