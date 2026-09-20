@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0412-fizz-buzz) |
 | [0999-available-captures-for-rook](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0999-available-captures-for-rook) |
+| [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/4020-elevator-requests-i) |
 ## Number Theory
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
+| [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
