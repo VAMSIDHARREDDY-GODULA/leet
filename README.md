@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3870-count-commas-in-range) |
 | [3996-even-number-of-knight-moves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3996-even-number-of-knight-moves) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3880-minimum-absolute-difference-between-two-values) |
