@@ -5,7 +5,8 @@ class Solution(object):
         while i<len(s):
             if i+2<len(s) and s[i+2]=='#':
                 a += chr(96+int(s[i:i+2]))
-                i += 2
-            else: a += chr(96+int(s[i]))
-            i += 1
+                i += 3
+            else:
+                a += chr(96+int(s[i]))
+                i += 1
         return a
