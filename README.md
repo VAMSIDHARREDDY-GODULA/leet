@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
