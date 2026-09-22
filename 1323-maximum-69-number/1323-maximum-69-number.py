@@ -1,10 +1,7 @@
 class Solution(object):
     def maximum69Number (self, num):
-        if '6' not in str(num):
-            return num
+        if '6' not in str(num): return num
+        i = str(num).find('6')
         x = list(str(num))
-        for i in range(len(x)):
-            if x[i]=='6':
-                x[i] = '9'
-                break
+        x[i] = '9'
         return int(''.join(x))
