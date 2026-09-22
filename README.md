@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1313-decompress-run-length-encoded-list](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1313-decompress-run-length-encoded-list) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3880-minimum-absolute-difference-between-two-values) |
