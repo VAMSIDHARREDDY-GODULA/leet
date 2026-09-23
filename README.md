@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1313-decompress-run-length-encoded-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Memoization
 |  |
 | ------- |
@@ -184,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0917-reverse-only-letters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Backtracking
 |  |
 | ------- |
