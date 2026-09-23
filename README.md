@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0693-binary-number-with-alternating-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Stack
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3870-count-commas-in-range) |
 | [3996-even-number-of-knight-moves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3996-even-number-of-knight-moves) |
