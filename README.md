@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0441-arranging-coins) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0101-symmetric-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
