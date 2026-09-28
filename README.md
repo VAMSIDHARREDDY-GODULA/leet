@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1021-remove-outermost-parentheses) |
@@ -271,11 +272,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
 ## Newton's Method
 |  |
 | ------- |
