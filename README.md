@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2236-root-equals-sum-of-children) |
 ## Newton's Method
 |  |
 | ------- |
