@@ -6,13 +6,14 @@
 #         self.right = right
 class Solution(object):
     def minDiffInBST(self, root):
-        def r(n, b):
-            if not n: return b
-            b = r(n.left,b)
+        b = []
+        def r(n,):
+            if not n: return
+            r(n.left)
             b.append(n.val)
-            b = r(n.right,b)
+            r(n.right)
             return b
-        s = r(root,[])
+        s = r(root)
         a = float('inf')
         for i in range(len(s)-1):
             x = s[i+1]-s[i]
