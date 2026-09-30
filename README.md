@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1408-string-matching-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1408-string-matching-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0938-range-sum-of-bst) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
