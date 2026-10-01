@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1408-string-matching-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1480-running-sum-of-1d-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Backtracking
 |  |
 | ------- |
