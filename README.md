@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1486-xor-operation-in-an-array) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Stack
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1486-xor-operation-in-an-array) |
 | [1952-three-divisors](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1952-three-divisors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
