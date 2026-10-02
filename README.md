@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1952-three-divisors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1480-running-sum-of-1d-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
