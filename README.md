@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1668-maximum-repeating-substring) |
+| [1678-goal-parser-interpretation](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1678-goal-parser-interpretation) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
