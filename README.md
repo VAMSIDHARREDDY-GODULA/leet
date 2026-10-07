@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1668-maximum-repeating-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -368,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
