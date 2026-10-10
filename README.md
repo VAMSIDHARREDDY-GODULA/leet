@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
