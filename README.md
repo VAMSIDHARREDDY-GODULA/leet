@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1518-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1952-three-divisors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1678-goal-parser-interpretation) |
+| [1903-largest-odd-number-in-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1903-largest-odd-number-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1903-largest-odd-number-in-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
