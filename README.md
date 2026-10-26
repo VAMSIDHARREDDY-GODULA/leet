@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0283-move-zeroes) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0771-jewels-and-stones) |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0164-maximum-gap) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
