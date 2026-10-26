@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0530-minimum-absolute-difference-in-bst) |
