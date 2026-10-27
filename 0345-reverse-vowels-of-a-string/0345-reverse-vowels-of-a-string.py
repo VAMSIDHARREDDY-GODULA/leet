@@ -8,6 +8,6 @@ class Solution(object):
                 s[i], s[j] = s[j], s[i]
                 i += 1
                 j -= 1
-            if s[i] not in x: i+=1
-            if s[j] not in x: j-=1
+            while i<j and s[i] not in x: i+=1
+            while i<j and s[j] not in x: j-=1
         return ''.join(s)
