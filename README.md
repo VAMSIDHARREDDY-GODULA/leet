@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1486-xor-operation-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0504-base-7) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0504-base-7) |
