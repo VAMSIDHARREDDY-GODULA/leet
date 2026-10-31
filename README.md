@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0999-available-captures-for-rook) |
 | [1518-water-bottles](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1688-count-of-matches-in-tournament) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Backtracking
 |  |
 | ------- |
