@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0092-reverse-linked-list-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Enumeration
@@ -433,4 +435,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
