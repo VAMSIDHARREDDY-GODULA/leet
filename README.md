@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1518-water-bottles) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1952-three-divisors) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1550-three-consecutive-odds) |
 | [1598-crawler-log-folder](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1598-crawler-log-folder) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1668-maximum-repeating-substring](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
