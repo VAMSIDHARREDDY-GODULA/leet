@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2810-faulty-keyboard) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0999-available-captures-for-rook) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
