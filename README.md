@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2057-smallest-index-with-equal-value) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
