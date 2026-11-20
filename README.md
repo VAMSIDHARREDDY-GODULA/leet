@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
