@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2103-rings-and-rods](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2103-rings-and-rods) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2103-rings-and-rods](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2103-rings-and-rods) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
