@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2103-rings-and-rods) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
