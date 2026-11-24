@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2810-faulty-keyboard](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1903-largest-odd-number-in-string) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Pigeonhole Principle
 |  |
 | ------- |
