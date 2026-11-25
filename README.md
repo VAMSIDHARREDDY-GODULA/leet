@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2810-faulty-keyboard](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
