@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2347-best-poker-hand](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2347-best-poker-hand) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2248-intersection-of-multiple-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2325-decode-the-message) |
+| [2347-best-poker-hand](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2347-best-poker-hand) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2248-intersection-of-multiple-arrays) |
+| [2347-best-poker-hand](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2347-best-poker-hand) |
 ## Binary Search
 |  |
 | ------- |
