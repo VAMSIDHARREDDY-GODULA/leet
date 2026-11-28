@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2810-faulty-keyboard](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2810-faulty-keyboard) |
 | [3360-stone-removal-game](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2347-best-poker-hand](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2347-best-poker-hand) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2325-decode-the-message) |
 | [2347-best-poker-hand](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2248-intersection-of-multiple-arrays) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Backtracking
 |  |
 | ------- |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1903-largest-odd-number-in-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -492,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0023-merge-k-sorted-lists) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
 | ------- |
