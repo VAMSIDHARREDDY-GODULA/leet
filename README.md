@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/1486-xor-operation-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Stack
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2325-decode-the-message) |
 | [2347-best-poker-hand](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2347-best-poker-hand) |
+| [2351-first-letter-to-appear-twice](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2351-first-letter-to-appear-twice) |
 | [2810-faulty-keyboard](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2248-intersection-of-multiple-arrays) |
 | [2347-best-poker-hand](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2347-best-poker-hand) |
+| [2351-first-letter-to-appear-twice](https://github.com/VAMSIDHARREDDY-GODULA/leet/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
